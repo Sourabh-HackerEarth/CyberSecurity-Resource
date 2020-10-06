@@ -27,6 +27,12 @@
 - [Black Alps](https://www.blackalps.ch/ba-18/)
 - [OWASP Cheat Sheets](https://github.com/OWASP/CheatSheetSeries)
 
+## HackerEarth - CTF
+- [Cipher Combat](https://ciphercombatforbeginners.hackerearth.com/)
+- [Cipher Combat-2.0](https://www.hackerearth.com/challenges/hackathon/cipher-combat-20/)
+- [Brute Force 1.0](https://www.hackerearth.com/challenges/hackathon/brute-force-10/)
+- [Cipher Combat - VAPT](https://www.hackerearth.com/challenges/competitive/Cipher-combat-3-VAPT)
+
 ## Learning
 - http://www.securitytube.net/
 - http://cybrary.it/
